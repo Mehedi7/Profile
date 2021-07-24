@@ -37,7 +37,7 @@ p{
   width: 70px;
   position: absolute;
   left: 550px;
-  top: 80px;
+  top: 100px;
   transform: rotate(310deg);
 }
 .bottom-pic{
@@ -45,7 +45,7 @@ p{
   width: 70px;
   position: absolute;
   right: 550px;
-  bottom: 400px;
+  bottom: 300px;
   transform: rotate(20deg);
 
 }
