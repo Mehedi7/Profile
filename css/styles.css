@@ -36,15 +36,15 @@ p{
   height: 70px;
   width: 70px;
   position: absolute;
-  left: 550px;
-  top: 240px;
+  left: 650px;
+  top: 140px;
   transform: rotate(310deg);
 }
 .bottom-pic{
   height: 70px;
   width: 70px;
   position: absolute;
-  right: 550px;
+  right: 650px;
   bottom: 600px;
   transform: rotate(20deg);
 
