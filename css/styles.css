@@ -33,11 +33,11 @@ p{
   text-decoration: underline;
 }
 .top-pic{
-  height: 40px;
-  width: 40px;
+  height: 70px;
+  width: 70px;
   position: absolute;
   left: 550px;
-  top: 140px;
+  top: 10px;
   transform: rotate(310deg);
 }
 .bottom-pic{
