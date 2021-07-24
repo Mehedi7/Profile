@@ -36,7 +36,7 @@ p{
   height: 70px;
   width: 70px;
   position: absolute;
-  left: 950px;
+  left: 50px;
   top: 140px;
   transform: rotate(310deg);
 }
@@ -44,7 +44,7 @@ p{
   height: 70px;
   width: 70px;
   position: absolute;
-  right: 950px;
+  right: 50px;
   bottom: 600px;
   transform: rotate(20deg);
 
